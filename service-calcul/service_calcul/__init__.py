@@ -1,0 +1,1 @@
+"""package service_calcul : règle de calcul de FactureCloud."""
